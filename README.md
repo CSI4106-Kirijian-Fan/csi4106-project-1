@@ -6,6 +6,10 @@ This is the repository for the classification project of CSI4106
 | Ara Kirijian | 300062347 | akiri052@uottawa.ca |
 | Austin Fan | 300018056 | afan062@uottawa.ca |
 
+## Requirements
+- Python 3
+- Bash
+
 ## Start Guide
 1. Clone the repository (duh)
 2. Navigate to the root directory of the project and setup a virtual environment 
