@@ -1,10 +1,10 @@
 # CSI4106 Project 1
-This is the repository for the classification project of CSI3106
+This is the repository for the classification project of CSI4106
 
 | Team member | Student ID | Email |
 | --- | --- | --- |
 | Ara Kirijian | 300062347 | akiri052@uottawa.ca |
-| Alvin Fan | {{insert student ID}} | {{insert email}} |
+| Austin Fan | 300018056 | afan062@uottawa.ca |
 
 ## Start Guide
 1. Clone the repository (duh)
