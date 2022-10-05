@@ -14,10 +14,14 @@ This is the repository for the classification project of CSI4106
 1. Clone the repository (duh)
 2. Navigate to the root directory of the project and setup a virtual environment 
     ```bash
-    python3 -m venv .venv
+    python -m venv .venv
     ```
 3. Activate the virtual environment 
     ```bash
+    ## Windows
+    source .venv/Scripts/activate.bat
+    
+    ## Unix
     source .venv/bin/activate
     ```
 4. Install the dependencies 
