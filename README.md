@@ -19,7 +19,7 @@ This is the repository for the classification project of CSI4106
 3. Activate the virtual environment 
     ```bash
     ## Windows
-    source .venv/Scripts/activate.bat
+    .venv/Scripts/activate.bat
     
     ## Unix
     source .venv/bin/activate
